@@ -1,0 +1,39 @@
+{
+	"name": "anime5e",
+	"title": "Anime5e",
+	"description": "My attempt to make a system on Foundry",
+	"author": "Oniwolf2000",
+	"Version": 1.0.1, 
+	"templateVersion": 2,
+	"minimumCoreVersion": "0.6.4",
+	"compatibleCoreVersion": "0.7.10",
+	"emodules": [
+	"Anime5e.js"
+	],
+	"scripts": [
+	"scripts/system-script-1.js"
+	],
+	"styles": [
+	"Anime5e.css"
+	],
+	"packs": [
+	],
+	"languages": [
+	 {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+	],
+	"socket": false,
+	"gridUnits": "ft",
+	"GridDistance": 5,
+	"primaryTokenAttributes": "HP",
+	"SecondaryTokenAttributes": "EP",
+	"initative": "1d6 + @Init",
+	
+}
+
+
+
+
