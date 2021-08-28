@@ -31,10 +31,10 @@
 	"primaryTokenAttributes": "HP",
 	"SecondaryTokenAttributes": "EP",
 	"initative": "1d6 + @Init",
-	"url": "https://github.com/Oniwolf2000/anime5e.git"
+	"url": "https://github.com/Oniwolf2000/anime5e"
 	"Manifest": "https://github.com/Oniwolf2000/anime5e/System.json"
+	"download": "https://github.com/Oniwolf2000/anime5e/blob/b2269ec5f7559c1d73cbd8b35aab9ae478562305/anime5e.zip'"
 }
-
 
 
 
